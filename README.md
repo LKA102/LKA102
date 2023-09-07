@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano Hernández</h1>
 <h3 align="center">A software engineering student at the National San Marcos University | Peru</h3>
 
-- 🔭 I’m currently imersed in **web development, mainly focusing non backend technologies**
+- 🔭 I’m currently imersed in **web development, mainly focusing on backend technologies**
 
 - ⚡ Love playing basketball, cycling and collaborating in different projects
 
